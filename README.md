@@ -1,7 +1,7 @@
 impact-memory-test
 ==================
 
-#### Demonstrating how to free images from memory during an ImpactJS game. ####
+#### Demonstrates how to free images from memory during an ImpactJS game. ####
 
 ## Instructions ##
 
